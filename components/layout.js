@@ -50,6 +50,7 @@ export default function Layout({ children, home }) {
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
             </h2>
+            <h3>Web developer</h3>
           </>
         )}
       </header>
