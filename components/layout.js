@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
           name="description"
           content="Learn how to build a personal website using Next.js"
         />
-
+<link rel='manifest' href='/manifest.json' />
 
         
       </Head>
