@@ -3,10 +3,5 @@
   "short_name": "blogs",
   "lang": "en-GB",
   "start_url": "/",
-  "display": "standalone",
-  "icons": [
-    {
-      "src": "blogs.png"
-    }
-  ]
+  "display": "standalone"
 }
