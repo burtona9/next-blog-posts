@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import utilStyles from '../styles/utils.module.css'
 
-export default function Home {
+export default function Home() {
   return (
     <>
       <Head>
